@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Javascript 3일차"
-description: "Javascript 3일차"
+title: "자바스크립트 3일차"
+description: "자바스크립트 3일차"
 categories: [Javascript]
 tags: [Javascript]
 redirect_from:
