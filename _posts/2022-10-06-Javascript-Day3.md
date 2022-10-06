@@ -39,8 +39,17 @@ say("안녕하세요", let func=(a,b)=>a+b,say No)
 
 
 
+## 리터럴과 프로피티
 
-
+연관배열을 할때는 ""를 사용한다.
+~~~ javascript
+<script>
+  let obj={"정우빈:팀장","문창일:팀원1","박문수:팀원2"};
+    alert();
+</script>
+~~~
+delete 연산자를 사용하면 프로피티를 삭제할 수 있다.
+프로피티의 끝은 쉼표로 끝날 수 있다
 
 
 ~~~ javascript
