@@ -2,8 +2,8 @@
 layout: post
 title: "Javascript 3일차"
 description: "Javascript 3일차"
-categories: [Java]
-tags: [Java, jekyll]
+categories: [Javascript]
+tags: [Javascript]
 redirect_from:
   - /2022/10/06/
 ---

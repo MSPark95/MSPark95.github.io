@@ -2,8 +2,8 @@
 layout: post
 title: "자바스크립트 2일차"
 description: "자바스크립트 2일차"
-categories: [demo]
-tags: [demo, jekyll]
+categories: [Javascript]
+tags: [Javascript]
 redirect_from:
   - /2022/10/05/
 ---
