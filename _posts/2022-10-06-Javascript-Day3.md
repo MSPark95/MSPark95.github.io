@@ -6,7 +6,6 @@ categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
   - /2022/10/06/
-published: true
 ---
 
 # 
