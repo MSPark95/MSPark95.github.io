@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Javascript Day3"
-description: "Javascript Day3"
-categories: [demo]
-tags: [demo, jekyll]
+title: "Javascript 3일차"
+description: "Javascript 3일차"
+categories: [Java]
+tags: [Java, jekyll]
 redirect_from:
   - /2022/10/06/
 ---
@@ -34,7 +34,8 @@ say("안녕하세요", let func=(a,b)=>a+b,say No)
 ## 엄격모드
 하위 호환성을 위해서 유지하고 있는 모드이다 클래스와 같은 몇몇에서는 자동으로 엄격모드를 포함하고 있다
 
-## 반복문
+
+# Chrome에서 디버깅
 
 
 
