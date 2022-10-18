@@ -99,6 +99,7 @@ button:focus{filter:brightness(60%);}
 }
 
   #steps.off{opacity:0;}
+
 #display{
   display:block;position:relative;
   width:100%; height:auto;
@@ -120,19 +121,19 @@ button:focus{filter:brightness(60%);}
 .number{
   display:flex;flex-flow:row wrap;
   position:relative;
-  width:75%;
+  width:50%;
 
 }
 .number{
   display:block;
-  width:33.33%; aspect-ratio:1/1;
+  width:25%; aspect-ratio:1/1;
   border:1px solid rgba(0,0,0,.2);
   background:#707070;
   font-size:inherit; color:rgba(255,255,255,1);
 }
 /* .num[data-val="0"]{width:66.66%; aspect-ratio:0;} */
 .number[data-val="-1"],
-.number[data-val="."]{background:rgba(255,255,255,.1);}
+.number[data-val="."]{background:rgba(255,255,255,1);}
 
 /* 버튼 - 연산 */
 .operation{
@@ -141,15 +142,15 @@ button:focus{filter:brightness(60%);}
 }
 .operation{
   display:block;
-  width:100%; aspect-ratio:1/1;
-  background:rgba(255,255,255,.1);
+  width:25%; aspect-ratio:1/1;
+  background:rgba(0,0,0,.3);
   border:1px solid rgba(0,0,0,.2);
   font-size:1.5rem; color:#fff;
 }
 .clear{
   display:block;
-  width:100%;aspect-ratio:1/1;
-  background:rgba(36, 55, 165, 0.1);
+  width:25%;aspect-ratio:1/1;
+  background:rgba(36, 55, 165, 0.3);
   border:1px solid rgba(0,0,0,.2);
   font-size:1rem; color:#fff;
 }
@@ -157,10 +158,15 @@ button:focus{filter:brightness(60%);}
 /* = 버튼 */
 .result{
   display:block;
-  width:100%; aspect-ratio:1/.33;
-  background:rgba(93, 128, 241, 0.3);
+  width:25%; aspect-ratio:1/1;
+  background:rgba(36, 55, 165, 0.3);
   border:1px solid rgba(0,0,0,.2);
   font-size:2rem; font-weight:bold; color:#fff;
   mix-blend-mode:hard-light;
 }
 ```
+
+``` javascript
+
+```
+
